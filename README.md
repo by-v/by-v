@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=v0o&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=welcome%20to%20my%20dev%20space&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <div align="center">
-
 <p><code>by-v@github ~ $ ./maintainer.sh</code></p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=by-v&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304153004%3Fu%3Dfc1e546f83c4ae416e059f72716e1b8ccacf608d%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
